@@ -1,0 +1,43 @@
+{
+  "version": "0.4.0",
+  "notes": "",
+  "pub_date": "2026-06-22T09:34:27.894Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFhCL29qdGdtZWNUWXpML21YaTRTMlJ2ekZJN1RwSjhEZURqcDJzNjk0aTdXS3hXamxVV3VsWnk1NDZ4aWlsWUw3RHROQ1gvNEQ2U0p5RzlENlJ3cHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTIwNjk4CWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXIuYXBwLnRhci5negpCRWVSdFhmVEQxdkNnSFAyanRhTzRrUE5Ock5zMHlqWFl5cjdjSUNqT1lzMU1HTmIxLzdTa1BtQUR0QnpCOUpiQi9Ec1BQOW11Q1EwSVhBaVUrL0ZBZz09Cg==",
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/454427909"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFhCL29qdGdtZWNUWXpML21YaTRTMlJ2ekZJN1RwSjhEZURqcDJzNjk0aTdXS3hXamxVV3VsWnk1NDZ4aWlsWUw3RHROQ1gvNEQ2U0p5RzlENlJ3cHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTIwNjk4CWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXIuYXBwLnRhci5negpCRWVSdFhmVEQxdkNnSFAyanRhTzRrUE5Ock5zMHlqWFl5cjdjSUNqT1lzMU1HTmIxLzdTa1BtQUR0QnpCOUpiQi9Ec1BQOW11Q1EwSVhBaVUrL0ZBZz09Cg==",
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/454427909"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFV4MldZVVZtcW9UTisreHRyTU9UWHh2UktwNjQ3bHdnMXcvZy92SDYxUVNIdnNKZHBYUWNrSUpMd2QzTklwRXR0Nk9YdUVGc1BsUXRyMlNUN011bndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTIwODIxCWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXJfMC40LjBfYW1kNjQuQXBwSW1hZ2UKN3FtbFJuZnRGMjExWmVNanZOYWdzT3JEODY1ZlUweTllRFRERkRydW9malprYlVqcVdkU2ZhMnNzQjVINU51dDFDRUU1S1NRRG82UzN5S2lhTXdLQnc9PQo=",
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/454429287"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFV4MldZVVZtcW9UTisreHRyTU9UWHh2UktwNjQ3bHdnMXcvZy92SDYxUVNIdnNKZHBYUWNrSUpMd2QzTklwRXR0Nk9YdUVGc1BsUXRyMlNUN011bndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTIwODIxCWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXJfMC40LjBfYW1kNjQuQXBwSW1hZ2UKN3FtbFJuZnRGMjExWmVNanZOYWdzT3JEODY1ZlUweTllRFRERkRydW9malprYlVqcVdkU2ZhMnNzQjVINU51dDFDRUU1S1NRRG82UzN5S2lhTXdLQnc9PQo=",
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/454429287"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFZpYWRlay9yVThKOHlHNmhiK0t4RnVUZTdPTFlWa0I0d3JVRzZRRGN0em9KVHFlWFQvd3U0TXhBZUpTMnVEZlNFTHNwSDNHY0JjdFprRGJaNnlmMUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTIwODIxCWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXJfMC40LjBfYW1kNjQuZGViCjEwb05FTURRT3VTamtWRE5nSUhoMndDZWlEVTNCLzZWYkx4Y3FQUXhJejNUNXQ4RnhOVkpyWXRrVVV6N1lIMHhHTGFFQ3FBendab1dNNm1BaGtuZURnPT0K",
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/454429244"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFNPWGZKOWp4SUtsVFN3ZkJYNS9kSlZ4TmlPZ1NSN3ljOENnOGhLczNPMHBIV2pqeXZqcS9QZGxkNlRYb2RBQUVDNTFMeXNqV3RuK2V4Ty9mVy9Ra3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTIwODIxCWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXItMC40LjAtMS54ODZfNjQucnBtCnF2emY4dWlKaS9ORGU1VkFHMHA4V1RPVm04UitZWE9ndHlsWG9XVHppK0lQdzV2UE5uYmVqb2RtNENPTDNMODV3TGFSUjZ4SU5FemFtbG54RmUzeEJnPT0K",
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/454429270"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFUvaEtqbDFiaUlGekF2SXM4QS9xcXpxRnBGRTB4Y0FJWHY3WTJKdkNVc0kzTTlQNGRRSUd3WFdUODZocGRMcHVVbE5Yamp0cWhEb3l6b1gyQjBWRkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTIwODYzCWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXJfMC40LjBfeDY0X2VuLVVTLm1zaQo5T0NPaGJkSlhyN0ExV0lFS1NGc3pTNHQxdnZ5Z3AzdG55dlJZaHZwb3U3RWxYdDBQNXZFTDduRkJ1b0I5dW9RMlQ5aXArTFJnbDVheGhwcDh2M1pCUT09Cg==",
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/454429772"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFUvaEtqbDFiaUlGekF2SXM4QS9xcXpxRnBGRTB4Y0FJWHY3WTJKdkNVc0kzTTlQNGRRSUd3WFdUODZocGRMcHVVbE5Yamp0cWhEb3l6b1gyQjBWRkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTIwODYzCWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXJfMC40LjBfeDY0X2VuLVVTLm1zaQo5T0NPaGJkSlhyN0ExV0lFS1NGc3pTNHQxdnZ5Z3AzdG55dlJZaHZwb3U3RWxYdDBQNXZFTDduRkJ1b0I5dW9RMlQ5aXArTFJnbDVheGhwcDh2M1pCUT09Cg==",
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/454429772"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFl4ekI1eUFvZVFpV1lkRHNiRnJGL2VMWFAxU1poNm83enpDSm1PcUFhOXcyckNhS1pwc1JtdnlMbEMwdkNhVERpQnhpaHhsRVJNSUtWa3ZDaEdNU3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTIwODYzCWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXJfMC40LjBfeDY0LXNldHVwLmV4ZQpKYUtWZUZVcWJUWWlvY2NDeUFaNzJtMVE5VHJtVTlxZXlhb1hkSk5VNitkdXQ2WndzSzc1cmFwYlVFRUpqcG8zQm9VTllJN0pMQ01ob1VnUndKSkxDZz09Cg==",
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/454429796"
+    }
+  }
+}
