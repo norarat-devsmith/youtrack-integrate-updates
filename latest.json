@@ -5,31 +5,31 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFJsd3BXYzJRTTNNYm0wK3gvdnlRL0s2SHBGWkp5Uld3aGw3c0xpQlY0c3hEa0krdFQ4dmNHbCsxWnNYc0JaZm5zcG1jSnkxZEY3eU40WEJCaERDYVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTk1Njk0CWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXJfMC40LjRfeDY0X2VuLVVTLm1zaQpXQmJ3WnIrOVppcFJJYjZxV3oyMjcyTTFCWU93Snp1TmIxd0VFREo4WWlFWEtXUGdrYUtzM0RJNmdML2lPMU9oL2RoZUlrUk16NmhUMnM4MG04cWZEQT09Cg==",
-      "url": "https://github.com/norarat-devsmith/youtrack-integrate/releases/download/v0.4.4/YouTrack.PM.Command.Center_0.4.4_x64_en-US.msi"
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/455339384"
     },
     "windows-x86_64-msi": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFJsd3BXYzJRTTNNYm0wK3gvdnlRL0s2SHBGWkp5Uld3aGw3c0xpQlY0c3hEa0krdFQ4dmNHbCsxWnNYc0JaZm5zcG1jSnkxZEY3eU40WEJCaERDYVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTk1Njk0CWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXJfMC40LjRfeDY0X2VuLVVTLm1zaQpXQmJ3WnIrOVppcFJJYjZxV3oyMjcyTTFCWU93Snp1TmIxd0VFREo4WWlFWEtXUGdrYUtzM0RJNmdML2lPMU9oL2RoZUlrUk16NmhUMnM4MG04cWZEQT09Cg==",
-      "url": "https://github.com/norarat-devsmith/youtrack-integrate/releases/download/v0.4.4/YouTrack.PM.Command.Center_0.4.4_x64_en-US.msi"
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/455339384"
     },
     "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TGFNVlVianpWcjNZdFN3ZmRwcHlmSk0yUDlzWFBDVTZ0MVpwMmR3WTdUMlN0RklIbk93S3NVTUpjV0ZBZHlwT3FaR0NBMGhJYVdnWGF4N3RCVWQrN1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTk1Njk0CWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXJfMC40LjRfeDY0LXNldHVwLmV4ZQpZSFZScC9pUUJkdkhHd1pWeGx3YkU5UTNIQlhFR0Nld3dXcWhaTmFrcjVXUitCalRSRTgrYU1NcTBMYXZxK3liLzM2RUJoQWJMdGl5SjVMY3Q5RXpBdz09Cg==",
-      "url": "https://github.com/norarat-devsmith/youtrack-integrate/releases/download/v0.4.4/YouTrack.PM.Command.Center_0.4.4_x64-setup.exe"
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/455339398"
     },
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFVVenZKb0RkYlpjMG5rODMyMm05ZkdTZ1lJYy9PVHJ1VXFTazkrQThzSUVaU1RHM2pJMHhEVkNETXk1VllheFFZcXpFR2tsbXhDVHIzUE1kMEJOUEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTk3Mzk2CWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXIuYXBwLnRhci5negpMTHhobmpOeTVFcnRtcUt6UlRDZXZWY2QwWW1iMmk1dmdTQWJJRlpFWXZTLzc2R2tRNW1UaHdrUUZRYnFWNmVlUk1GMEJIbjROekhXS0gxenRyQzlDdz09Cg==",
-      "url": "https://github.com/norarat-devsmith/youtrack-integrate/releases/download/v0.4.4/YouTrack.PM.Command.Center_universal.app.tar.gz"
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/455358890"
     },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFVVenZKb0RkYlpjMG5rODMyMm05ZkdTZ1lJYy9PVHJ1VXFTazkrQThzSUVaU1RHM2pJMHhEVkNETXk1VllheFFZcXpFR2tsbXhDVHIzUE1kMEJOUEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTk3Mzk2CWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXIuYXBwLnRhci5negpMTHhobmpOeTVFcnRtcUt6UlRDZXZWY2QwWW1iMmk1dmdTQWJJRlpFWXZTLzc2R2tRNW1UaHdrUUZRYnFWNmVlUk1GMEJIbjROekhXS0gxenRyQzlDdz09Cg==",
-      "url": "https://github.com/norarat-devsmith/youtrack-integrate/releases/download/v0.4.4/YouTrack.PM.Command.Center_universal.app.tar.gz"
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/455358890"
     },
     "darwin-aarch64-app": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFVVenZKb0RkYlpjMG5rODMyMm05ZkdTZ1lJYy9PVHJ1VXFTazkrQThzSUVaU1RHM2pJMHhEVkNETXk1VllheFFZcXpFR2tsbXhDVHIzUE1kMEJOUEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTk3Mzk2CWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXIuYXBwLnRhci5negpMTHhobmpOeTVFcnRtcUt6UlRDZXZWY2QwWW1iMmk1dmdTQWJJRlpFWXZTLzc2R2tRNW1UaHdrUUZRYnFWNmVlUk1GMEJIbjROekhXS0gxenRyQzlDdz09Cg==",
-      "url": "https://github.com/norarat-devsmith/youtrack-integrate/releases/download/v0.4.4/YouTrack.PM.Command.Center_universal.app.tar.gz"
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/455358890"
     },
     "darwin-x86_64-app": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMzRaTGpFTFl6TFVVenZKb0RkYlpjMG5rODMyMm05ZkdTZ1lJYy9PVHJ1VXFTazkrQThzSUVaU1RHM2pJMHhEVkNETXk1VllheFFZcXpFR2tsbXhDVHIzUE1kMEJOUEFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgyMTk3Mzk2CWZpbGU6WW91VHJhY2sgUE0gQ29tbWFuZCBDZW50ZXIuYXBwLnRhci5negpMTHhobmpOeTVFcnRtcUt6UlRDZXZWY2QwWW1iMmk1dmdTQWJJRlpFWXZTLzc2R2tRNW1UaHdrUUZRYnFWNmVlUk1GMEJIbjROekhXS0gxenRyQzlDdz09Cg==",
-      "url": "https://github.com/norarat-devsmith/youtrack-integrate/releases/download/v0.4.4/YouTrack.PM.Command.Center_universal.app.tar.gz"
+      "url": "https://api.github.com/repos/norarat-devsmith/youtrack-integrate/releases/assets/455358890"
     }
   }
 }
